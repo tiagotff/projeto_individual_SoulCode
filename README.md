@@ -2,7 +2,7 @@
 
 Trabalho individual sobre o processo de ETL e Dashboard, após tratamento dos dados.
 
-Nesse trabalho, individual, é apresentado um trabalho individual simples, aplicando, principalmente, Engenharia e Análise de Dados, num projeto de ponta a ponta.
+Nesse trabalho, individual, é apresentado um trabalho de pouca complexidade, aplicando, principalmente, Engenharia e Análise de Dados, num projeto de ponta a ponta.
 
 A base de dados é simples, e por esse motivo um ótimo exemplo para planejar, organizar e implementar um processo de ETL bem estruturado com Visualizações interessantes, tornando-o um projeto completo.
 
